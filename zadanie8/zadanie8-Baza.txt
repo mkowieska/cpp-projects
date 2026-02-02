@@ -1,0 +1,16 @@
+--------------------------------------------------
+Zawodnicy
+--------------------------------------------------
+Liczba zawodnikow: 9
+--------------------------------------------------
+Wiktoria Kowalska Pary 15.5.1999. 0
+Karolina Kawiecka 15-16 8.3.2005. 0
+Alicja Bukowska 19-20 11.6.2007. 0
+Sara Pazurewicz 17-18 18.4.2003. 0
+Wiktoria Kawiecka 15-16 13.11.2001. 0
+Alicja Maliniak 20+ 6.2.2011. 0
+Maja Pazurewicz Studenci(20-24) 10.5.2000. 0
+Karolina Bakowicz 11-12 15.1.2009. 0
+Julianna Konierska 13-14 8.10.2008. 0
+
+--------------------------------------------------

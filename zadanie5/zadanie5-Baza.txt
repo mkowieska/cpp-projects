@@ -1,0 +1,17 @@
+--------------------------------------------------
+Zawodnicy
+--------------------------------------------------
+Liczba zawodnikow: 10
+--------------------------------------------------
+Alicja Nowakowska Pary 21.6.2012. 0
+Karolina Bukowska Studenci(20-24) 11.6.2013. 0
+Hanna Kawiecka 15-16 7.2.2001. 0
+Julianna Bukowska Pary 12.5.1999. 0
+Julita Kanawecka 9-10 11.8.2006. 0
+Maja Bukowska 19-20 30.5.2000. 0
+Lena Bakowicz 15-16 31.8.2010. 0
+Zofia Bukowska 20+ 15.1.2010. 0
+Julita Kowalewska 20+ 27.10.2003. 0
+Natalia Kowalewska 13-14 21.12.2006. 0
+
+--------------------------------------------------
